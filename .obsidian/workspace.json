@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+                "file": "00 - Start Here/Networking Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
+              "title": "Networking Dashboard"
             }
           }
         ],
@@ -216,9 +216,9 @@
   },
   "active": "1ce203ac553d9c39",
   "lastOpenFiles": [
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
     "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
     "README.md",
-    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
